@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">Electrical and electronics engineer ,ML Engineer Candidate</h3>
 
-- 🌱 I’m currently learning **TensorFlow,Pytorch,OpenCV,Neural Networks and Embedded Systems**
+- 🌱 I’m currently learning **TensorFlow,Pytorch,Matlab,Neural Networks and Embedded Systems**
 
 - 📫 How to reach me **oztrkmmrtt@gmail.com**
 
