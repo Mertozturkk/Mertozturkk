@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
-<h3 align="center">Electrical and electronics engineer ,ML Engineer Candidate</h3>
-I'm a 26 years old Python Developer based in Ankara. I'm working as a Jr.Python Developer at Teleskop App. I write web scraping bots by working with python on social media platforms(Facebook,twitter,linkedin..) and many different resources
+<h3 align="center">Developer</h3>
+I'm a 26 years old Python Developer based in Ankara. I'm working as a Python Developer at Teleskop App. I write web scraping bots by working with python on social media platforms(Facebook,twitter,linkedin..) and currently working on REST API for a dashboard system
 
 - 🌱 I’m currently learning **TensorFlow,Pytorch,Matlab,Neural Networks and Embedded Systems**
 - 
-- 🔨 Interested in: Docker, Flask, TCP/IP Networking, Deep Learning, Pytorch, Go, JavaScript, AWS
+- 🔨 Interested in: Docker, Flask, TCP/IP Networking, Deep Learning, Pytorch, Go, AWS, DevOps
 - 
 - 📫 How to reach me **oztrkmmrtt@gmail.com**
 
