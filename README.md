@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">Developer</h3>
-I'm a 26 years old Python Developer based in Ankara. I'm working as a Python Developer at Teleskop App. I write web scraping bots by working with python on social media platforms(Facebook,twitter,linkedin..) and currently working on REST API for a dashboard system
+I'm a 28 years old Python Developer based in Ankara. I'm working as a Python Developer at Teleskop App. I write web scraping bots by working with python on social media platforms(Facebook,twitter,linkedin..) and currently working on AWS
 
-- 🌱 I’m currently learning **TensorFlow,Pytorch,Matlab,Neural Networks and Embedded Systems**
+- 🌱 I’m currently learning **AWS,Nodejs,Typescript,Neural Networks and Embedded Systems**
 - 
 - 🔨 Interested in: Docker, Flask, TCP/IP Networking, Deep Learning, Pytorch, Go, AWS, DevOps
 - 
