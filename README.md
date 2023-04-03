@@ -6,7 +6,7 @@ I'm a 28 years old Python Developer based in Ankara. I'm working as a Python Dev
 - 
 - 🔨 Interested in: Docker, Flask, TCP/IP Networking, Deep Learning, Pytorch, Go, AWS, DevOps
 - 
-- 📫 How to reach me **oztrkmmrtt@gmail.com**
+- 📫 How to reach me **cloud@mertozturk.dev**
 
 ## 🔗 Let's Connect!
 
