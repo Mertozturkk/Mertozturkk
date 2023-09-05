@@ -4,7 +4,7 @@ I'm a 28 years old Backend Developer based in Ankara. I'm working as a Bacckend 
 
 - 🌱 I’m currently learning **AWS,Nodejs,Typescript,Golang**
 - 
-- 🔨 Interested in: Docker, Flask, TCP/IP Networking, Deep Learning, Pytorch, Go, AWS, DevOps
+- 🔨 Interested in: Docker,Kubernetes, Flask, TCP/IP Networking, Go, AWS, DevOps
 - 
 - 📫 How to reach me **cloud@mertozturk.dev**
 
