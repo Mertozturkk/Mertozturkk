@@ -2,7 +2,7 @@
 <h3 align="center">Developer</h3>
 I'm a Backend Developer based in Ankara. I'm working as a Bacckend Developer at Teleskop App. I possess extensive expertise in building scalable and efficient web applications using Python. I am currently broadening my skill set by delving into emerging technologies such as Elasticsearch, Golang, in order to stay abreast of the latest industry trends and advancements.
 
-- 🌱 I’m currently learning **AWS,Nodejs,Typescript,Golang**
+- 🌱 I’m currently learning **Golang**
 - 
 - 🔨 Interested in: Elasticsearch, Docker,Kubernetes, Flask, TCP/IP Networking, Go, AWS, DevOps
 - 
