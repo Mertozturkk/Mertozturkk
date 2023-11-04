@@ -22,6 +22,3 @@ I'm a Backend Developer based in Ankara. I'm working as a Bacckend Developer at 
 <a href="https://www.elastic.co/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" width="40" height="40"/> <a/>
 
 </p>
-
-
-![](https://komarev.com/ghpvc/?username=Mertozturkk&color=lightgrey)
