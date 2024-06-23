@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">Developer</h3>
-I'm working as a Software Developer [DataFlowX](https://www.dataflowx.com/). I possess extensive expertise in building scalable and efficient web applications using Python and Golang. I am currently broadening my skill set by delving into emerging technologies such as Elasticsearch, Golang, in order to stay abreast of the latest industry trends and advancements.
+I'm working as a Software Developer [**DataFlowX**](https://www.dataflowx.com/) I possess extensive expertise in building scalable and efficient web applications using Python and Golang. I am currently broadening my skill set by delving into emerging technologies such as Elasticsearch, Golang, in order to stay abreast of the latest industry trends and advancements.
 
 - 🌱 I’m currently learning **Golang**
 - 
